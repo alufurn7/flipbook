@@ -28,7 +28,7 @@ export const catalogues = [
     description: "Discover considered aluminium solutions designed around contemporary living.",
     category: "Lifestyle",
     cover: "/alufurn-lifestyle-brochure-cover.jpg",
-    heyzineUrl: "https://heyzine.com/flip-book/a17c77d843.html",
+    heyzineUrl: "https://heyzine.com/flip-book/6ed5d2fd80.html",
     featured: false,
     sortOrder: 3,
   },
