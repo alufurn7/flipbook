@@ -11,7 +11,7 @@ export default function Header({ compact = false }) {
           {logoFailed ? (
             <span className="brand__fallback">ALUFURN</span>
           ) : (
-            <img src="/logo.svg" alt="Alufurn" width="184" height="32" onError={() => setLogoFailed(true)} />
+            <img src="/logo.png" alt="Alufurn" width="1353" height="134" onError={() => setLogoFailed(true)} />
           )}
         </Link>
 
